@@ -1,11 +1,13 @@
 # Mikropwn
 Automated and weaponized Mikrotik pwn
 
+Only creds harvaster for now.
+
 MIPS Version only for now
 
 
 # Credit
-This is based on BigNerd95 amzing work
+This is based on BigNerd95 amazing work
 
 https://github.com/BigNerd95/Chimay-Red
 
