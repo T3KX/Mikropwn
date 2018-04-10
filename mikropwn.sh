@@ -1,4 +1,4 @@
-echo "Starting Mikropwn V2.0"
+echo "Starting Mikropwn V2.0  MIPS version"
 
 cat << "EOF"
 ======================================================================
