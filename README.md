@@ -1,6 +1,8 @@
 # Mikropwn
 Automated and weaponized Mikrotik pwn
 
+MIPS Version only for now
+
 
 # Credit
 This is based on BigNerd95 amzing work
@@ -13,4 +15,6 @@ Reverse shell.
 Integration of Busybox
 
 Backdoor
+
+X86 Version
 
